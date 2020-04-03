@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-lottie": "^1.2.3",
     "react-scripts": "3.4.1"
   },
   "scripts": {
@@ -30,5 +31,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "guppy": {
+    "id": "fb7e0c50-73dd-11ea-afdc-af7773e85977",
+    "name": "lottie-demo",
+    "type": "create-react-app",
+    "color": "#4919b7",
+    "icon": null,
+    "createdAt": 1585720783255
   }
 }
